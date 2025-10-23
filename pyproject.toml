@@ -13,4 +13,3 @@ dependencies = [
     "streamlit>=1.50.0",
     "tensorflow-cpu",
 ]
-
