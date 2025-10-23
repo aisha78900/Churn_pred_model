@@ -14,5 +14,3 @@ dependencies = [
     "tensorflow-cpu",
 ]
 
-[tool.uv.sources]
-tensorflow-cpu = { path = "tensorflow_cpu-2.20.0-cp313-cp313-win_amd64.whl" }
